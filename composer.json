@@ -1,9 +1,9 @@
 {
-    "name": "laravel/laravel",
+    "name": "unreleased01/eval-app",
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
-    "type": "project",
+    "type": "library",
     "require": {
         "php": ">=5.6.4",
         "fzaninotto/faker": "^1.6",
